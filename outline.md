@@ -5,7 +5,7 @@ This document describes the refresher 'course' given about SQL.  It is purely a 
 
 Dependencies
 ------------
-- [Here](https://github.com/feomike/sql_refresher/blob/master/dependencies.md) I outline the kinds of things I make sure i have in place before moving forward w/ an analysis.
+- [Here](https://github.com/feomike/sql_refresher/blob/master/posts/dependencies.md) I outline the kinds of things I make sure i have in place before moving forward w/ an analysis.
 
 Outline
 -------
