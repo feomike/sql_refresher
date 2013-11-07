@@ -16,7 +16,6 @@ Step 1: Setup - anatomy of a SQL client
 - I will not cover tablespaces, groups and roles
 - databases have schema's, tables, views, index's 
 - schema's are containers to logically group tables
-- 
 
 Step 2: Getting Data In/Getting Data Out
 
