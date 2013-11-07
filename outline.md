@@ -10,7 +10,7 @@ Dependencies
 Outline
 -------
 **Step 1: Setup - anatomy of a SQL client**
-- [Here]() I outline the basic anatomy of a SQL client.  I tend to use PG admin, so your will see something slightly different depending on what client you use.
+- [Here](https://github.com/feomike/sql_refresher/blob/master/anatomy_of_a_SQL_client.md) I outline the basic anatomy of a SQL client.  I tend to use PG admin, so your will see something slightly different depending on what client you use.
 
 **Step 2: Getting Data In/Getting Data Out**
 - [Here]() I outline the basics of getting data into and out of databases.  It is critical to doing analytics, moving to your favorite software, and or preparing data for presentation.
