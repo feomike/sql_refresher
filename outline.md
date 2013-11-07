@@ -7,20 +7,28 @@ Dependencies
 ------------
 - [Here](https://github.com/feomike/sql_refresher/blob/master/dependencies.md) I outline the kinds of things I make sure i have in place before moving forward w/ an analysis.
 
-Step 1: Setup - anatomy of a SQL client
-- the database has to be running.  these databases are enterprise class, so they typically need a server to run.  In the Postgres version from Boundless, it will run in the background, and will continue to run until you turn the machine off.  When you turn it back on you will need to restart the database server.  
-- I will not cover tablespaces, groups and roles
-- databases have schema's, tables, views, index's 
-- schema's are containers to logically group tables
+Outline
+-------
+**Step 1: Setup - anatomy of a SQL client**
+- [Here]() I outline the basic anatomy of a SQL client.  I tend to use PG admin, so your will see something slightly different depending on what client you use.
 
-Step 2: Getting Data In/Getting Data Out
+**Step 2: Getting Data In/Getting Data Out**
+- [Here]() I outline the basics of getting data into and out of databases.  It is critical to doing analytics, moving to your favorite software, and or preparing data for presentation.
+ 
+**Step 3: SQL Statements Outline**
+- [Here]() I outline the basics of SQL statements.  
 
-Step 3: SQL Statements Outline
+**Step 4: First Investigation Approach**
+- [Here]() I outline the things I do every time I get a new dataset.
 
-Step 4: First Investigation Approach
+**Step 5: Indexes**
+- [Here]() I outline index's.
 
-Step 5: Indexes
+**Step 6: Joins**
+- [Here]() I outline what it is to join tables together.
 
-Step 6: Joins
+**Step 6: Resources**
+- [Here]() I provide links to my favorite help documents and sections
 
-Step 6: Resources
+**Step 7: Other things I like**
+- [Here]() I outline other stuff I like to do and why
