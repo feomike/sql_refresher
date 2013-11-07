@@ -5,7 +5,7 @@ This document describes the refresher 'course' given about SQL.  It is purely a 
 
 Dependencies
 ------------
-[Here](https://github.com/feomike/sql_refresher/blob/master/dependencies.md) I outline the kinds of things I make sure i have in place before moving forward w/ an analysis.
+- [Here](https://github.com/feomike/sql_refresher/blob/master/dependencies.md) I outline the kinds of things I make sure i have in place before moving forward w/ an analysis.
 
 Step 1: Setup - anatomy of a SQL client
 - the database has to be running.  these databases are enterprise class, so they typically need a server to run.  In the Postgres version from Boundless, it will run in the background, and will continue to run until you turn the machine off.  When you turn it back on you will need to restart the database server.  
