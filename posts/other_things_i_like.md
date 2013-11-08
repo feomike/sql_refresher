@@ -49,7 +49,7 @@ I often use python to write SQL.  This approach can get very complicated (see be
 	   	mySQL = mySQL + str(val) + "); Commit;"
 		cur.execute(mySQL)
 		val = val + 1
- 	conn.commit()
+ 		conn.commit()
 	cur.close 
 ```
 
