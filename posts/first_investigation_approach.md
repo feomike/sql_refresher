@@ -24,22 +24,3 @@ Use code like this to investigate character fields:
 		order by type;
 ```
 
-Use code like this to investigate numeric fields;
-
-```javascript
-select max(member) as max, min(member) as min, avg(member) as average
-  from sbi2012dec.nces
-```javascript
-
-For a complete list of aggregate numeric functions, see [your favorite database help section](http://www.postgresql.org/docs/8.2/static/functions-aggregate.html).
-
-- Examine variation in groups of fields.
-Use code like this to investigate groups:
-```javascript
-	select type, ulocal, status, level, count(*), sum(member) as total_students 
-		from sbi2012dec.nces
-		group by type, ulocal, status, level
-		order by type;
-```
-
-Character fields in the select statement need to also be in the group statement.  You can add as many aggregate numeric fields as you want as well.  Above I am summing the number of students in this table.
