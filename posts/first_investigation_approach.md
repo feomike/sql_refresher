@@ -35,6 +35,7 @@ For a complete list of aggregate numeric functions, see [your favorite database 
 
 - Examine variation in groups of fields.
 Use code like this to investigate groups:
+
 ```javascript
 	select type, ulocal, status, level, count(*), sum(member) as total_students 
 		from sbi2012dec.nces
