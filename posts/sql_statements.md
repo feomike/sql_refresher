@@ -1,6 +1,6 @@
 Basics of SQL Statements
 ------------------------
-SQL is very very basic.  You have one verb (generally) ***SELECT****.  You ***SELECT**** ***fields*** from a ***table*** with certain ***conditions*** then ***order*** the output rows.  So lets say you want to select all the schools, addresses,  from a table that has all schools but you only want the ones that have more than 1000 students.
+SQL is very very basic.  You have one verb (generally) ***SELECT***.  You ***SELECT*** ***fields*** from a ***table*** with certain ***conditions*** then ***order*** the output rows.  So lets say you want to select all the schools, addresses,  from a table that has all schools but you only want the ones that have more than 1000 students.
 
 This statement would look like the following:
 
