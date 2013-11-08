@@ -50,6 +50,7 @@ Use code like the following to copy data to a file:
 ```
 
 - Or select the data to the output window and copy it w/ your mouse
+
 Use code like the following:
 
 `select * from analysis.caf1;`
