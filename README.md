@@ -33,4 +33,4 @@ Outline
 - [Here]() I provide links to my favorite help documents and sections
 
 **Step 7: Other things I like**
-- [Here]() I outline other stuff I like to do and why
+- [Here](https://github.com/feomike/sql_refresher/blob/master/posts/other_things_i_like.md) I outline other stuff I like to do and why
