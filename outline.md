@@ -3,6 +3,8 @@ SQL Refresher
 
 This document describes the refresher 'course' given about SQL.  It is purely a simple notes kind of approach.  I tend to want very simple SQL for speed of analysis.  This is not meant to be a course in database administration, or SQL or analysis, but a general idea of how I manage SQL for analytics.  
 
+I will not cover tablespaces, groups and roles
+
 Dependencies
 ------------
 - [Here](https://github.com/feomike/sql_refresher/blob/master/posts/dependencies.md) I outline the kinds of things I make sure i have in place before moving forward w/ an analysis.
