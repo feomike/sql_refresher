@@ -18,7 +18,7 @@ Outline
 - [Here](https://github.com/feomike/sql_refresher/blob/master/posts/data_in_data_out.md) I outline the basics of getting data into and out of databases.  Moving data around is critical to preping analytics, moving to your favorite software, and/or preparing data for presentation.
  
 **Step 3: SQL Statements Outline**
-- [Here]() I outline the basics of SQL statements.  
+- [Here](https://github.com/feomike/sql_refresher/blob/master/posts/sql_statements.md) I outline the basics of SQL statements.  
 
 **Step 4: First Investigation Approach**
 - [Here]() I outline the things I do every time I get a new dataset.
