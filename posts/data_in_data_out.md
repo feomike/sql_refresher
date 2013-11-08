@@ -4,7 +4,7 @@ Here we go over how to get data in to a table and how to get it out.
 
 **Getting Data In to a Database**
 - Set up a Table.  Use code like the following to create a new table:
-```
+```javascript 
 -- Table: analysis.caf1
 -- DROP TABLE analysis.caf1;
 CREATE TABLE analysis.caf1
