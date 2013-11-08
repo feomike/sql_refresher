@@ -45,10 +45,12 @@ I often use python to write SQL.  This approach can get very complicated (see be
 
 	val = 1
 	while val < 10:
-        mySQL = "INSERT INTO " + schema + ".tests VALUES (" 
-        mySQL = mySQL + str(val) + "); Commit;"
-        cur.execute(mySQL)
-        val = val + 1
+		mySQL = "INSERT INTO " + schema + ".tests VALUES (" 
+	   	mySQL = mySQL + str(val) + "); Commit;"
+        	cur.execute(mySQL)
+        	val = val + 1
+ 	conn.commit()
+	cur.close 
 ```
 
 
