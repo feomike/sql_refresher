@@ -27,3 +27,12 @@ Use code like the following to create a new table:
         USING btree
         (geoid10 COLLATE pg_catalog."default" );
 ```
+
+- Copy data into the table from a file
+Use code like the following to copy data
+
+```javascript
+	copy analysis.caf1
+		from '/users/feomike/downloads/caf1.csv'
+		csv header delimiter '|';
+```
