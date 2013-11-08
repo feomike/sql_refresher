@@ -21,7 +21,7 @@ Outline
 - [Here](https://github.com/feomike/sql_refresher/blob/master/posts/sql_statements.md) I outline the basics of SQL statements.  
 
 **Step 4: First Investigation Approach**
-- [Here]() I outline the things I do every time I get a new dataset.
+- [Here](https://github.com/feomike/sql_refresher/blob/master/posts/first_investigation_approach.md) I outline the things I do every time I get a new dataset.
 
 **Step 5: Indexes**
 - [Here]() I outline index's.
